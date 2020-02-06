@@ -349,12 +349,12 @@
 @media only screen and (min-width: 360px) and (max-width: 479px) {
     .navbar-light .navbar-toggler {
         background-color: #fff;
-        color: #130f40;
+        color: #404040;
         margin-left: 20px !important;
         padding: 4px 10px
     }
     #NavbarContent {
-        background-color: #130f40;
+        background-color: #393939;
     }
     .navbar-nav {
         padding: 20px 0 0;
@@ -536,12 +536,12 @@
 @media only screen and (min-width: 320px) and (max-width: 359px) {
     .navbar-light .navbar-toggler {
         background-color: #fff;
-        color: #130f40;
+        color: #343434;
         margin-left: 20px !important;
         padding: 4px 10px
     }
     #NavbarContent {
-        background-color: #130f40;
+        background-color: #434343;
     }
     .navbar-nav {
         padding: 20px 0 0;
